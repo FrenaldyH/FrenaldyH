@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Frenaldy 👋
 
-<!--
-**FrenaldyH/FrenaldyH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student at Sepuluh Nopember Institute of Technology with a passion for competitive programming and problem-solving.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my data structures and algorithms skills.
+- 🌱 I’m currently learning about dynamic programming and graph theory.
+- 👯 I’m looking to collaborate on interesting algorithm-based projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Competitive Programming
+
+- **Codeforces:** [FrenH](https://codeforces.com/profile/FrenH)
+- **LeetCode:** [Frenn](https://leetcode.com/u/Frenn/)
+
